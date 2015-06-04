@@ -9,8 +9,10 @@
   "author": "Dhi Aurrahman <diorahman@rockybars.com>",
   "license": "MIT",
   "dependencies": {
+    "boom": "^2.7.2",
     "cheerio": "^0.19.0",
     "hyperquest": "^1.2.0",
+    "joi": "^6.4.3",
     "request": "^2.57.0"
   },
   "devDependencies": {},
