@@ -1,0 +1,33 @@
+{
+  "name": "data.blankon.id-bahanpokok",
+  "version": "1.0.0",
+  "description": "Data parsed from http://ews.kemendag.go.id/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "hyperquest": "^1.2.0",
+    "request": "^2.57.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "bahanpokok",
+    "api",
+    "blankon",
+    "data",
+    "kemendag",
+    "ews"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-blankon-id/api-bahanpokok.git"
+  },
+  "bugs": {
+    "url": "https://github.com/data-blankon-id/api-bahanpokok/issues"
+  },
+  "homepage": "https://github.com/data-blankon-id/api-bahanpokok#readme"
+}
